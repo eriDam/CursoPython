@@ -17,7 +17,7 @@ if len(sys.argv) == 2:
 		longitud = len(cadena)
 
 		for i in range(longitud):
-			#tenemos que transformar a int antes de pasarle al format de numeros una cadena 
+			#tenemos que transformar a int antes de pasarle al format d numeros una cadena 
 			#print( "{:04d}".format(int(cadena[i])))
 			"""para que salga con este foramto, 
 				debemos pasarle la longitud de la cadena -1 - el indice
@@ -28,8 +28,8 @@ if len(sys.argv) == 2:
   				Por que la longitud hará referencia al largo de la cadena, 
   				por eso restamos 1, así la recorremos del revés"""
 			#print( "{:04d}".format(int(cadena[longitud-1-i])))
-			"""Tenemos que posicionar losnumeros en la unidad que le corresonde
-			con matemáticas lo  vamos a multipliar x las unidades, decenas, centenas
+			"""Tenemos que posicionar los numeros en la unidad que le corresonde
+			con matemáticas lo  vamos a multiplicar x las unidades, decenas, centenas
 			y miles, después lo vamos a elevar a 0, cualquier nº elevado a 0 vale 1"""
 			
 			print( "{:04d}".format(int(cadena[longitud-1-i]) * 10 ** i))
