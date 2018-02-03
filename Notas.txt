@@ -1,0 +1,13 @@
+* Para acceder a la consola
+	Shift + Btn dcho
+
+* Para arrancar jupyter notebook:
+	- Dentro del directorio se abre la consola y se escribe jupyter notebook, 
+	debe abrirse el navegador (local host:8888), si no está arrancado el servicio saldrá que no se puede mostrar.
+
+* Crear Bat para no  tener que realizar el paso anterior para arrancar el servicio.
+
+	1- Crear doc de texto con la sentencia
+	jupyter notebook.
+	2- Guardar con extensión .bat
+	3- Doble clik para ejecutar.
