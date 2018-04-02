@@ -23,3 +23,16 @@ def dibujar_tabla_del_5():
         print("5 * {} = {} ".format(i,i*5))
 
 dibujar_tabla_del_5()
+
+#◙Para llamar a la variable, debemos  declararla
+def test():
+    n=10
+print(n)
+
+
+m=10
+def test():
+    print(m)
+
+llamar_funcion = test()
+print(llamar_funcion)
