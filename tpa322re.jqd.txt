@@ -1,0 +1,15 @@
+﻿Fase 4 - Temas avanzados/Tema 12 - Manejo de ficheros/.ipynb_checkpoints/Leccion 04 - Catalogo de peliculas persistente
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   Fase 4 - Temas avanzados/Tema 12 - Manejo de ficheros/Apuntes/Leccion 04 (Apuntes) - Catalogo de peliculas persistente.ipynb
+#	modified:   Fase 4 - Temas avanzados/Tema 12 - Manejo de ficheros/Leccion 04 - Catalogo de peliculas persistente.ipynb
+#
+# Untracked files:
+#	Fase 4 - Temas avanzados/Tema 12 - Manejo de ficheros/.ipynb_checkpoints/Leccion 04 - Catalogo de peliculas persistente-checkpoint.ipynb
+#	Fase 4 - Temas avanzados/Tema 12 - Manejo de ficheros/Apuntes/.ipynb_checkpoints/Leccion 04 (Apuntes) - Catalogo de peliculas persistente-checkpoint.ipynb
+#	Fase 4 - Temas avanzados/Tema 12 - Manejo de ficheros/catalogo.pckl
+#
+
