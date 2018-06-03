@@ -5,7 +5,7 @@ from tkinter import *
 root = Tk() #creamos un componente Tk
 
 # Título de la ventana
-root.title("Mi label")
+root.title("Mi  ")
 # redimensionable
 root.resizable(1,1) # verdadero y falso
 root.wm_iconbitmap('hola.ico') #formato ico
