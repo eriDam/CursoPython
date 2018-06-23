@@ -1,4 +1,4 @@
-* Para acceder a la consola
+* Para acceder a la consola en sublime
 	Shift + Btn dcho
 
 * Para arrancar jupyter notebook:
