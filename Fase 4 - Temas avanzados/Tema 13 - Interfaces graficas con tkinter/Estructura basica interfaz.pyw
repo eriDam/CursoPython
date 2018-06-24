@@ -17,5 +17,5 @@ frame.pack()
  
  
 
-# Finalmente bucle de la apliación
+# Finalmente bucle de la aplicación
 root.mainloop()
