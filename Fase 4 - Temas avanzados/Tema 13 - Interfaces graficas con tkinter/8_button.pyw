@@ -39,6 +39,7 @@ Entry(root, justify="center", textvariable=n1).pack() # primer numero
 Label(root, text="Número 2").pack()
 Entry(root, justify="center", textvariable=n2).pack() # segundo numero
 Label(root, text="Resultado").pack()
+#Label(root, text="\nResultado\n").pack() #con salto de línea
 Entry(root, justify="center", textvariable=r, state="disabled").pack() # resultado, desactivamos que se pueda editar el resultado
 Label(root, text="").pack() #para poner un espacio entre las entradas de texto y los botones
 #Creo los botones
