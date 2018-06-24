@@ -14,7 +14,7 @@ def reset():
 root = Tk() #creamos un componente Tk
 root.title("RadioButton") # Título de la ventana
 
-opcion = IntVar()
+opcion = IntVar()  
 """
 Crear 1 Radiobutton, por defecto viene clicado
 Un radiobutton tiene un valor por defecto, todos forman una 
