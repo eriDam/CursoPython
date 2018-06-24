@@ -37,7 +37,7 @@ helpmenu.add_separator()
 helpmenu.add_command(label="Acerca de ...")
 
 
-# hay que indicar que los añada, así como el texto que va a forma el menú
+# hay que indicar que los añada, así como el texto que va a formar el menú
 menubar.add_cascade(label="Archivo",menu=filemenu)
 menubar.add_cascade(label="Editar",menu=editmenu)
 menubar.add_cascade(label="ayuda",menu=helpmenu)
